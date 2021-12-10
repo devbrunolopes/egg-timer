@@ -10,6 +10,8 @@ O QUE APRENDI NESSE PROJETO:
 - ProgressView
 - Timer
 
+<a href="https://www.linkedin.com/feed/update/urn:li:activity:6874852599376543745/" target= "_blank">Vídeo do app funcionando no LinkedIn</a>
+
 <br>
 <div>
 <p>Print da tela do app:</p>
