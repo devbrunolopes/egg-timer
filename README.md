@@ -16,6 +16,6 @@ O QUE APRENDI NESSE PROJETO:
 <div>
 <p>Print da tela do app:</p>
 <img src="https://user-images.githubusercontent.com/93380504/145489081-8e438504-db4d-43f2-b46c-6f8bc78b0782.png" width="250px" />
-<img src="https://user-images.githubusercontent.com/93380504/145489073-577868f6-8310-4232-a5ae-ae30d93e58ca.png" width="400px" height="250px" />
+<img src="https://user-images.githubusercontent.com/93380504/145489073-577868f6-8310-4232-a5ae-ae30d93e58ca.png" width="400px" />
 </div>
 
